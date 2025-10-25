@@ -96,5 +96,5 @@ Contributions to improve security research tools are welcome, especially those t
 
 ## 👤 Author
 
-- **Discord:** Cirqueira  
-- [Instagram Profile](https://www.instagram.com/cirqueirax/)
+- **Discord:** Nk3zse  
+- [FB Profile](https://www.facebook.com/trockbop.official)
